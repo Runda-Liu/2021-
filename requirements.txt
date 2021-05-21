@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+lxml
+=======
+<<<<<<< HEAD
+lxml
+=======
+pytorch=1.0.1
+torchvision==0.2.2
+matplotlib==3.1.0
+numpy==1.16.4
+scikit-image
+pandas
+sklearn
+>>>>>>> 6029cc54cd9f40d7643b7ddfd2e1cbfb6e028fc3
+>>>>>>> cc6ca35ce24f5f954ecace456d9def55ade65824
